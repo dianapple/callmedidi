@@ -1,0 +1,10 @@
+Changes :
+
+- Wordpress 4.5 Compatible
+- Demo Importer Improved ( now media and theme setting will import too )
+- Theme Setting export and import added
+- Custom part ability added ( now you can have cusotm content anywhere you like )
+- Testimonial responsive issue fixed
+- Jquery plugins updated
+
+

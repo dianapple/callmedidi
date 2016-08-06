@@ -1,0 +1,2371 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Personage\n"
+"POT-Creation-Date: 2014-07-26 11:42+0330\n"
+"PO-Revision-Date: 2014-07-26 11:43+0330\n"
+"Last-Translator: \n"
+"Language-Team: Pixflow <pxflow@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: D:\\wamp\\www\\personage\\wp-content\\themes\\personage\n"
+"X-Poedit-SearchPath-0: D:\\wamp\\www\\personage\\wp-content\\themes"
+"\\personage\n"
+
+#: D:\wamp\www\personage\wp-content\themes\personage/404.php:13
+msgid "ERROR!"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/404.php:15
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/404.php:20
+#: D:\wamp\www\personage\wp-content\themes\personage/search.php:27
+#: D:\wamp\www\personage\wp-content\themes\personage/searchform.php:4
+msgid "Search something ..."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/404.php:26
+msgid ""
+"Sorry, the page you are looking for is not available. You can use the search "
+"box above if you like."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/archive.php:11
+msgid "My Blog Posts"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/comments.php:11
+msgid "Name *"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/comments.php:13
+msgid "Email *"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/comments.php:15
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:171
+msgid "Website"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/comments.php:56
+#, php-format
+msgid "<cite>%s</cite> / "
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/comments.php:57
+msgid "(Author)"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/comments.php:58
+#, php-format
+msgid "%1$s AT %2$s"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/comments.php:60
+msgid "(Edit)"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/comments.php:85
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/comments.php:107
+msgid "Trackbacks for this post"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/comments.php:126
+msgid "Comments are now closed."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/comments.php:129
+msgid "Comments are now closed for this article."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/comments.php:141
+msgid "No comments so far."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/comments.php:144
+msgid "There are no comments for this article."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/comments.php:151
+msgid "Comments are closed."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/comments.php:154
+msgid "Comments are closed for this article."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/comments.php:167
+msgid "Your Message"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/home-page.php:66
+#: D:\wamp\www\personage\wp-content\themes\personage/templates/section-contact.php:81
+msgid "CONTACT ME"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/home-page.php:69
+#: D:\wamp\www\personage\wp-content\themes\personage/templates/section-contact.php:86
+msgid "Address: "
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/home-page.php:71
+#: D:\wamp\www\personage\wp-content\themes\personage/templates/section-contact.php:88
+msgid "Phone: "
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/home-page.php:73
+#: D:\wamp\www\personage\wp-content\themes\personage/templates/section-contact.php:90
+msgid "Email: "
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/search.php:8
+#, php-format
+msgid "RESULT <br/> FOR '%s'"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/search.php:8
+msgid "No Results Found"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/search.php:11
+msgid "Search"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/search.php:15
+msgid " Results found for"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/menus.php:4
+msgid "Primary Navigation"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/menus.php:5
+msgid "Mobile Navigation"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/plugins-handler.php:42
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/plugins-handler.php:43
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/plugins-handler.php:44
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/plugins-handler.php:45
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/plugins-handler.php:56
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/plugins-handler.php:57
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:171
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/plugins-handler.php:58
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/portfolio-walker.php:16
+#, php-format
+msgid "View all items filed under %s"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/sidebars.php:7
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:39
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:62
+msgid "Main Sidebar"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/sidebars.php:17
+msgid "Page Sidebar"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/support.php:41
+msgid "Keep Reading"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/twitter-timeline.php:135
+msgid "right now"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/twitter-timeline.php:137
+msgid " seconds ago"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/twitter-timeline.php:139
+msgid "about 1 minute ago"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/twitter-timeline.php:141
+msgid " minutes ago"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/twitter-timeline.php:143
+msgid "about 1 hour ago"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/twitter-timeline.php:145
+msgid " hours ago"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/twitter-timeline.php:147
+msgid "yesterday"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/twitter-timeline.php:149
+msgid " days ago"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/twitter-timeline.php:151
+msgid "over a year ago"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/admin-base.php:22
+msgid "Pixflow Theme Setting"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:39
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:62
+msgid "Default Page Sidebar"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:68
+msgid "Biography Section"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:71
+msgid "Biography Information"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:72
+msgid "Enter your biography entries here"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:76
+msgid "Intro Section Height:(Ex: 650px)"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:78
+msgid "Intro Section. Height"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:82
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:84
+msgid "Bio title"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:87
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:366
+msgid "Text"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:88
+msgid "Bio Text"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:92
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:542
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:150
+msgid "Image"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:93
+msgid "Bio Image:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:98
+msgid "Signature"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:99
+msgid "Signature Image:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:105
+msgid "Background setting"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:106
+msgid ""
+"Choose background type and set its settings here. Alternative image (video "
+"background) is the image that is shown instead of video in tablet and mobile "
+"devices. If you choose Image, the first image will be shown as the "
+"background in mobile and tablets."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:110
+msgid "Background type"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:120
+msgid "Menu Color Detector"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:126
+msgid "Background Images"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:127
+msgid "Slide:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:134
+msgid "Mp4 type"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:135
+msgid "mp4 video file:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:141
+msgid "Webm type"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:142
+msgid "webm video file:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:148
+msgid "Ogg type"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:149
+msgid "ogg video file:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:155
+msgid "Alternative Image"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:156
+msgid "Alternative Image:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:162
+msgid "Overlay setting "
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:163
+msgid "Select the overlay type for intro section and set its settings here"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:167
+msgid "Overlay type"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:176
+msgid "Example: 95"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:178
+msgid "Opacity value( 0-100 )"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:183
+msgid "Texture image"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:189
+msgid "Overlay Color"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:195
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:104
+msgid "Start Color"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:201
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:109
+msgid "End Color"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:213
+msgid "Sections Display & Title"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:216
+msgid "Into Section"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:217
+msgid "choose intro section show in menu on not"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:221
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:240
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:259
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:278
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:297
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:316
+msgid "Display in menu"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:222
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:241
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:260
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:279
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:298
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:317
+msgid "Don't show in Menu "
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:223
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:242
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:261
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:280
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:299
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:318
+msgid "Show in Menu"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:230
+msgid "Skill Section"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:231
+msgid "Enter a title for skills Section"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:235
+msgid "Skills Title"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:236
+msgid "MY SKILLS"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:249
+msgid "Experience Section"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:250
+msgid "Enter a title for Experience Section"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:254
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:93
+msgid "Experience Title"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:255
+msgid "MY Experience"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:268
+msgid "Education Section"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:269
+msgid "Enter a title for Education Section"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:273
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:93
+msgid "Education Title"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:274
+msgid "MY Education"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:287
+msgid "Portfolio Section"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:288
+msgid "Enter a title for Portfolio Section"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:292
+msgid "Portfolio Title"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:293
+msgid "MY Works"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:306
+msgid "Testimonial Section"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:307
+msgid "Enter a title for Testimonial Section"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:311
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/testimonial.php:97
+msgid "Testimonial Title"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:312
+msgid "MY Testimonial"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:329
+msgid "Appearance"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:332
+msgid "Site Background"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:333
+msgid "Choose your desired background type for your website."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:337
+msgid "My Background Is"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:339
+msgid "Color"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:339
+msgid "Texture"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:347
+msgid "Background Color"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:353
+msgid "Background Texture"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:359
+msgid "Custom Logo"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:360
+msgid ""
+"Choose text to use your name as logo or upload a .png image to be shown as "
+"website logo"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:364
+msgid "My Logo Is"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:366
+msgid "PNG Image"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:373
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:374
+msgid "Upload Logo"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:380
+msgid "Your Name"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:386
+msgid "Uppercase"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:391
+msgid "Font Name"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:398
+msgid "Font Size"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:399
+msgid "example: 23"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:406
+msgid "Custom Favicon"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:407
+msgid "Specify custom favicon url or upload new icon here"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:411
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:412
+msgid "Upload Favicon"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:418
+msgid "Print Setting"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:419
+msgid ""
+"Choose the print button functionality, you can set it to print your website "
+"in a beautiful style or upload a file to be downloaded as your resume."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:423
+msgid "Print Button Action:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:432
+msgid "Select Resume File:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:438
+msgid "Animation Setting"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:439
+msgid "Disable or Enable animation for website"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:443
+msgid "Disable"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:444
+msgid "Enable"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:451
+msgid "Oval Sticky Navigation Visibility"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:452
+msgid ""
+"Sticky Navigation is the small oval navigation on right side of screen which "
+"comes with you when you scroll between the sections of website. You can "
+"choose to show or not to show the Sticky Navigation."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:456
+msgid "Don't Show"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:457
+msgid "Show"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:469
+msgid "Portfolio Section Setting"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:472
+msgid "Number of Portfolio Posts "
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:473
+msgid ""
+"Enter the number of portfolio posts you want to display in your website "
+"before you click load more button. Enter -1 to display all posts."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:477
+msgid "Post Number"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:483
+msgid "Title & Filter Display"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:492
+msgid "Contact Section"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:495
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:256
+msgid "Contact Information"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:496
+msgid ""
+"Add a heading, plus your contact information here. You can also choose your "
+"contact form which is creating in Contact panel here."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:500
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:146
+msgid "Title"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:501
+msgid "For ex: CONTACT ME"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:505
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:156
+msgid "Address"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:506
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:155
+msgid "Your Address"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:510
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:161
+msgid "Email"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:511
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:160
+msgid "Your Email"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:515
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:166
+msgid "Phone"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:516
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:165
+msgid "Your Phone"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:520
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:180
+msgid "Select a form that is created in \"Contact\" panel"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:527
+msgid "Media setting "
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:528
+msgid ""
+"Choose the contact Section media type(Image or Map) and set its settings"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:543
+msgid "Image:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:548
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:113
+msgid "Choose Map style:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:555
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:138
+msgid "Select Map Zoom Level:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:563
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:122
+msgid "Map Address"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:564
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:120
+msgid "Google Map Address"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:569
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:128
+msgid "Map latitude value"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:570
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:126
+msgid "Google Maps latitude"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:575
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:134
+msgid "Map longitude value"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:576
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:132
+msgid "Google Maps longitude"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:581
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:107
+msgid "Map Marker Image"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:582
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:108
+msgid "Map Marker Image(PNG)"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:699
+msgid "Colors"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:703
+msgid "Preset Color"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:704
+msgid ""
+"Choose a preset theme color or choose custom to set your own color for theme"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:714
+msgid "General color"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:715
+msgid "General color for page elements"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:719
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:730
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:741
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:752
+msgid "Choose"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:725
+msgid "Menu color"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:726
+msgid "Menu color for Top menu items"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:736
+msgid "Content color"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:737
+msgid "Primary font and content elements color"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:747
+msgid "Highlight color"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:748
+msgid "Color for highlighted elements"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:758
+msgid "Link Color"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:759
+msgid "Choose link color and hover color"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:763
+msgid "Normal Color"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:768
+msgid "Hover Color"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:781
+msgid "Fonts"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:785
+msgid "Body Font"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:786
+msgid "Select your desired font for contents"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:796
+msgid "Navigation Font"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:797
+msgid "Select your desired font for navigation menu"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:807
+msgid "Headings Font"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:808
+msgid "Select your desired font for headings and titles"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:822
+msgid "Sidebars"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:825
+msgid "Single Blog Post Sidebar"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:826
+msgid "Select a sidebar for your single blog post"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:838
+msgid "Custom Sidebar"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:839
+msgid ""
+"Create custom sidebars that can be used in pages. You can customize those "
+"widgets in appearance > widgets"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:843
+msgid "Enter a sidebar name"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:848
+msgid "Page Sidebar Position"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:849
+msgid "Choose default sidebar position for pages that has sidebar"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:863
+msgid "Social"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:866
+msgid "Social Network URLs"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:867
+msgid ""
+"Enter your social network addresses in respective fields. You can clear "
+"fields to hide icons from the website user interface"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:871
+msgid "Facebook"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:875
+msgid "Twitter"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:879
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:166
+msgid "Vimeo"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:883
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:167
+msgid "YouTube"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:887
+msgid "Google+"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:891
+msgid "Dribbble"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:895
+msgid "Tumblr"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:899
+msgid "LinkedIn"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:903
+msgid "Flickr"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:907
+msgid "Forrst"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:911
+msgid "GitHub"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:915
+msgid "Last.fm"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:919
+msgid "PayPal"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:923
+msgid "RSS Feed"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:928
+msgid "Skype"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:932
+msgid "WordPress"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:936
+msgid "Yahoo"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:940
+msgid "deviantART"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:944
+msgid "Steam"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:948
+msgid "reddit"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:952
+msgid "StumbleUpon"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:956
+msgid "Pinterest"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:960
+msgid "XING"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:964
+msgid "Blogger"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:968
+msgid "SoundCloud"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:972
+msgid "Delicious"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:976
+msgid "Foursquare"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:980
+msgid "Instagram"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:989
+msgid "Footer Settings"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:992
+msgid "Widget Areas"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:993
+msgid "How many widget areas you like to have in the footer"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1004
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1009
+msgid "Copyright Text"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1005
+msgid "Enter footer copyright text. "
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1018
+msgid "Additional Scripts"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1022
+msgid "Additional JavaScript"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1023
+msgid ""
+"Enter custom JavaScript code such as Google Analytics code here. Please note "
+"that you should not include &lt;script&gt; tags in your scripts."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1031
+msgid "Additional CSS"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1032
+msgid ""
+"Enter custom CSS code such as style overrides here. Please note that you "
+"should not include &lt;style&gt; tags in your css code."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1044
+msgid "API Keys"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1048
+msgid "Google API Key"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1049
+msgid ""
+"Google API key for services such as Google Maps. Click <a href=\"https://"
+"developers.google.com/maps/documentation/javascript/tutorial#api_key\" "
+"target=\"_blank\">here</a> for more information on how to obtain Google API "
+"key."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1062
+msgid "Import Dummy Data"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1065
+msgid "Import Posts, Pages and Categories"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1066
+msgid ""
+"If you are new to WordPress or have problems creating posts or pages that "
+"look like the theme preview you can import dummy posts and pages here that "
+"will definitely help to understand how those tasks are done."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1069
+msgid "Select demo"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1080
+msgid "Don't Import"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1081
+msgid "Import"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1107
+msgid "- General Settings"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1108
+msgid "- Intro Section"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1109
+msgid "- Portfolio Section"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1110
+msgid "- Contact Section"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1111
+msgid "- Sections Display & Title"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1112
+msgid "- Appearance"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1113
+msgid "- Fonts"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1114
+msgid "- Footer Area"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1115
+msgid "- Sidebar"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1116
+msgid "- Social"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1117
+msgid "- Additional Scripts"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1118
+msgid "- API Keys"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1119
+msgid "- Dummy Data"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1123
+msgid "Theme Settings"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1124
+msgid "Other Settings"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/form-settings.php:1130
+msgid "Theme Options"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/mediabox-strings.php:6
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/mediabox-strings.php:7
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/mediabox-strings.php:12
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/mediabox-strings.php:13
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/mediabox-strings.php:14
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/mediabox-strings.php:15
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/mediabox-strings.php:16
+msgid "Insert Image"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/mediabox-strings.php:8
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/mediabox-strings.php:9
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/mediabox-strings.php:10
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/mediabox-strings.php:11
+msgid "Insert Video"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/mediabox-strings.php:17
+msgid "Insert Logo"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/mediabox-strings.php:18
+msgid "Insert Favicon"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/mediabox-strings.php:19
+msgid "Insert"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/mediabox-strings.php:20
+msgid "Insert banner background image"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/admin/sections.php:27
+msgid "Home Sections"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/forms/templates/admin-panels.php:14
+msgid "Save"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/forms/templates/admin-panels.php:19
+msgid "Documentation"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/forms/templates/admin-panels.php:19
+msgid "Support"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/forms/templates/upload-field.php:6
+msgid "Upload Image"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/forms/templates/upload-field.php:18
+msgid "Browse"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1950
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1950
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/parsers.php:42
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/parsers.php:72
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/parsers.php:84
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/parsers.php:89
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/parsers.php:279
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:134
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:143
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:194
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:198
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:511
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/includes/wordpress-importer/wordpress-importer.php:1130
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/blog.php:54
+msgid "Video URL"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/blog.php:58
+msgid "Audio URL"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/blog.php:62
+msgid "Gallery Image"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/blog.php:71
+msgid "Post Video"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/blog.php:72
+msgid "You can enter video urls hosted in YouTube or Vimeo"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/blog.php:78
+msgid "Post Audio"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/blog.php:79
+msgid "You can enter audio url hosted in SoundCloud"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/blog.php:85
+msgid "Post Gallery"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/blog.php:86
+msgid "Upload your gallery images here"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/blog.php:96
+msgid "Settings"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:16
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:17
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:194
+msgid "Education"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:18
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:18
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:18
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:18
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/testimonial.php:18
+msgid "Add New"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:19
+msgid "Add New Education"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:20
+msgid "Edit Education"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:21
+msgid "New Education"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:22
+msgid "View Education"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:23
+msgid "Search Education"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:24
+msgid "No educations found"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:25
+msgid "No educations found in Trash"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:36
+msgid "educations"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:97
+msgid "Education Duration"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:101
+msgid "Education Description"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:105
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:105
+msgid "Choose an icon"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:113
+msgid "Education Setting "
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:114
+msgid "Enter your education section information here"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/education.php:127
+msgid "Education Options"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:16
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:17
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:188
+msgid "Experience"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:19
+msgid "Add New Experience"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:20
+msgid "Edit Experience"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:21
+msgid "New Experience"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:22
+msgid "View Experience"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:23
+msgid "Search Experience"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:24
+msgid "No experiences found"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:25
+msgid "No experiences found in Trash"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:36
+msgid "experiences"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:97
+msgid "Experience Duration"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:101
+msgid "Experience Description"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:113
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:304
+msgid "Experience Setting "
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:114
+msgid "Enter your experience section information here"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/experience.php:127
+msgid "Experience Options"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:100
+msgid "Background Image"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:101
+msgid "Background Image:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:145
+msgid "For ex: Let's keep in touch"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:150
+msgid "For ex: It's my office"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:151
+msgid "Subtitle"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:170
+msgid "Your Website URL"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:175
+msgid "other contact info"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:176
+msgid "Other information"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:200
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:49
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:16
+msgid "Skills"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:205
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/testimonial.php:17
+msgid "Testimonial"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:210
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:216
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:222
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:228
+msgid "Open"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:233
+msgid "For ex: 12"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:234
+msgid "Experience counter"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:238
+msgid "Enter counter title"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:239
+msgid "Experience counter title"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:246
+msgid "Sidebar"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:247
+msgid "Choose a sidebar for this page"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:257
+msgid ""
+"Add a heading and subtitle, plus your contact information here. You can also "
+"choose your contact form here."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:270
+msgid "Background setting "
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:271
+msgid ""
+"Choose the contact page background type(Image or Map) and set its settings"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:287
+msgid "Sections Visibility "
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:288
+msgid ""
+"You can check the box in front of each section to add it to your resume page "
+"or uncheck the box to hide the section, you can also set each section to be "
+"open or close when page loads."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:305
+msgid "Check-mark every section to show or uncheck to hide"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:316
+msgid "ContactPage Settings"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:323
+msgid "ResumePage Settings"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:330
+msgid "Experience Settings"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/page.php:337
+msgid "Page Settings"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:16
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:17
+msgid "Portfolio"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:19
+msgid "Add New Portfolio"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:20
+msgid "Edit Portfolio"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:21
+msgid "New Portfolio"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:22
+msgid "View Portfolio"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:23
+msgid "Search Portfolio"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:24
+msgid "No portfolios found"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:25
+msgid "No portfolios found in Trash"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:36
+msgid "portfolios"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:50
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:17
+msgid "Skill"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:151
+msgid "Video"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:152
+msgid "Audio"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:153
+msgid "None"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:158
+msgid "Portfolio Image"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:172
+msgid "Video ID"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:176
+msgid "SoundCloud URL"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:183
+msgid "Portfolio Media Type"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:184
+msgid ""
+"Specify what kind of media (Image(s), Video or Audio) you like to be "
+"displayed in single portfolio."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:190
+msgid "Portfolio Images"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:191
+msgid ""
+"Upload your portfolio Image(s) here. If you upload more than one image it "
+"will be shown as slider"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:197
+msgid "Portfolio Video"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:198
+msgid ""
+"Choose the video sharing network and add the related video ID here, you can "
+"add the information about the video in WordPress text editor above this box."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:205
+msgid "Portfolio Audio"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:206
+msgid "Enter the sound cloud audio URL here"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/portfolio.php:216
+msgid "Portfolio Options"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:19
+msgid "Add New Skill"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:20
+msgid "Edit Skill"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:21
+msgid "New Skill"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:22
+msgid "View Skill"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:23
+msgid "Search Skill"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:24
+msgid "No skills found"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:25
+msgid "No skills found in Trash"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:36
+msgid "skills"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:96
+msgid "Skill Title"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:100
+msgid "Skill Percent"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:117
+msgid "Skill Setting "
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:118
+msgid "Enter your skill section information here"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/skill.php:131
+msgid "Skill Options"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/testimonial.php:16
+msgid "Testimonials"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/testimonial.php:19
+msgid "Add New Testimonial"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/testimonial.php:20
+msgid "Edit Testimonial"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/testimonial.php:21
+msgid "New Testimonial"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/testimonial.php:22
+msgid "View Testimonial"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/testimonial.php:23
+msgid "Search Testimonial"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/testimonial.php:24
+msgid "No testimonials found"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/testimonial.php:25
+msgid "No testimonials found in Trash"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/testimonial.php:36
+msgid "testimonials"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/testimonial.php:101
+msgid "Testimonial Subtitle"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/testimonial.php:105
+msgid "Testimonial Description"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/testimonial.php:112
+msgid "Testimonial Setting "
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/testimonial.php:113
+msgid "Enter your testimonial section information here"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/post-types/testimonial.php:125
+msgid "Testimonial Options"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-advertisement.php:12
+msgid "Displays your image ads"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-advertisement.php:103
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-flickr.php:78
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-progress.php:86
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-recent-portfolio.php:84
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-recent-posts.php:95
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-testimonials.php:109
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-twitter.php:115
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-video.php:90
+msgid "Title:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-advertisement.php:109
+msgid "How many advertisement to display?"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-advertisement.php:114
+msgid ""
+"Note: Please input FULL URL <br/>(e.g. <code>http://www.example.com</code>)"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-advertisement.php:134
+msgid "Image sizes should be exactly <br />125px * 125px"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-flickr.php:10
+msgid "Displays your flickr photo stream"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-flickr.php:90
+msgid "Flickr ID:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-flickr.php:96
+msgid "Number of Photos:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-flickr.php:106
+msgid "Type (user or group):"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-flickr.php:115
+msgid "Display (random or latest):"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-progress.php:10
+msgid "Displays 5 progress bars with a title"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-progress.php:94
+#, php-format
+msgid "Progress %d Title:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-progress.php:101
+#, php-format
+msgid "Progress %d:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-recent-portfolio.php:10
+msgid "Displays your recent portfolio items"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-recent-portfolio.php:90
+msgid "Number Of Recent Works:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-recent-posts.php:10
+msgid "Displays your recent posts"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-recent-posts.php:101
+msgid "Number Of Posts:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-testimonials.php:18
+msgid "Testimonials widget"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-testimonials.php:49
+msgid "Previous"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-testimonials.php:51
+msgid "Next"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-testimonials.php:123
+msgid "Remove"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-testimonials.php:126
+msgid "Name:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-testimonials.php:129
+msgid "Text:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-testimonials.php:138
+msgid "Add Testimonial"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-twitter.php:22
+msgid "Displays your recent tweets"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-twitter.php:121
+msgid "Twitter Screen Name:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-twitter.php:127
+msgid "Consumer Key:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-twitter.php:133
+msgid "Consumer Secret:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-twitter.php:139
+msgid "User Token:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-twitter.php:145
+msgid "User Secret:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-twitter.php:151
+msgid "Number Of Tweets:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-twitter.php:157
+msgid "Follow Text e.g Follow @pixflow"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-video.php:10
+msgid "A widget that displays your YouTube or Vimeo Video."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-video.php:97
+msgid "Video URL:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/lib/widgets/widget-video.php:103
+msgid "Video Description:"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/templates/loop-blog-audio.php:28
+#: D:\wamp\www\personage\wp-content\themes\personage/templates/loop-blog-gallery.php:43
+#: D:\wamp\www\personage\wp-content\themes\personage/templates/loop-blog-standard.php:22
+#: D:\wamp\www\personage\wp-content\themes\personage/templates/loop-blog-video.php:41
+msgid "Keep Reading <span class=\"icon-arrow-right5\"></span>"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/templates/loop-blog-meta.php:4
+#: D:\wamp\www\personage\wp-content\themes\personage/templates/single-post-meta.php:2
+msgid "Posted by "
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/templates/loop-portfolio-category.php:22
+msgid "All"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/templates/loop-portfolio-category.php:43
+msgid "portfolio filter"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/templates/section-experience.php:8
+msgid "Get resume"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/templates/section-experience.php:10
+msgid "Print it"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/templates/section-portfolio.php:117
+msgid "Loading..."
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/templates/section-portfolio.php:118
+msgid "Load More"
+msgstr ""
+
+#: D:\wamp\www\personage\wp-content\themes\personage/templates/section-portfolio.php:119
+msgid "No More Posts"
+msgstr ""

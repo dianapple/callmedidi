@@ -1,0 +1,7 @@
+<ul class="contact-form">
+<li class="text-field">[text* id:name class:name placeholder "Your Name"]</li>
+<li class="text-field">[email* id:email class:email placeholder "Email Address"]</li>
+<li class="text-field">[url* id:url class:url placeholder "Website Address"]</li>
+<li class="comment-text-field">[textarea* id:comment class:comment 64x10 placeholder "Your Message"]</li>
+<li class="submit">[submit id:submit class:submit "Send message"]</li>
+</ul>

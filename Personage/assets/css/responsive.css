@@ -1,0 +1,475 @@
+@charset "utf-8";
+/* Responsive CSS Document */
+
+
+@media (max-width:768px){
+    .tab-selectors .flex-control-nav{position: relative;}
+
+    .tab-selectors .flex-control-nav li{float:none;}
+
+    #testimonial .special-intro .tab-selectors{width: 100%;}
+
+    #testimonial .special-intro .descriptions{
+        height: auto;
+    }
+
+    .custom-part-content,
+    .custom-part-text{
+        text-align: center;
+    }
+
+    .custom-part div.underline-box{
+        margin:20px auto;
+    }
+}
+
+/*** ! Desktop Devices 1200! ***/
+@media (min-width: 481px) {
+    #education .education-parts .education-part .title .years{
+        font-size: 20px;
+        padding-right: 10px;
+    }
+    #education .education-parts .education-part .title h3{
+        font-size: 16px;
+        padding-left: 10px;
+    }
+
+
+
+}
+
+
+/*** ! Desktop Devices! ***/
+@media (min-width: 481px) {
+    /* Hide Intro items for before animation */
+    #intro div.face-photo-container,
+    #intro .about .about-name,
+    #intro .about .separator,
+    #intro .about .description,
+    #intro .about .signature{
+        opacity: 0;
+    }
+
+    #experience .experience-parts .experience-part {
+        display: table;
+    }
+    #experience.container .experience-parts .experience-part .title {
+        display: table-cell;
+        float: none;
+        vertical-align: middle;
+    }
+    #experience .experience-parts .experience-part .description {
+        padding-top: 22px;
+        width: 100%;
+        float: none;
+    }
+    #experience .experience-parts .experience-part .description .icon {
+        display: table-cell;
+        margin-left: 0px;
+        margin-top: 0px;
+        padding-left: 41px;
+        padding-top: 9px;
+        position: relative;
+        vertical-align: middle;
+    }
+    #experience .experience-parts .experience-part .description .text {
+        display: table-cell;
+        padding-left: 10%;
+        margin-left: 0px;
+        position: relative;
+        width: 100%;
+    }
+
+    #education .education-parts .education-part {
+        display: table;
+    }
+    #education.container .education-parts .education-part .title {
+        display: table-cell;
+        float: none;
+        vertical-align: middle;
+    }
+    #education .education-parts .education-part .description {
+        padding-top: 22px;
+        width: 100%;
+    }
+    #education .education-parts .education-part .description .icon {
+        display: table-cell;
+        margin-left: 0px;
+        margin-top: 0px;
+        padding-left: 41px;
+        position: relative;
+        vertical-align: middle;
+    }
+    #education .education-parts .education-part .description .text {
+        display: table-cell;
+        padding-left: 10%;
+        margin-left: 0px;
+        position: relative;
+        width: 100%;
+    }
+}
+
+/*** ! Tablet & Mobile Devices! ***/
+@media (max-width: 800px) {
+    #intro .about .description {
+        font-size: 18px;
+    }
+    #page-top-menu .navigation-button{
+        display: block;
+    }
+    #page-top-menu .navigation-button:last-child {
+        border-right: 1px solid #FFFFFF;
+        height: 24px;
+        margin-right: 11px;
+        padding-right: 11px;
+        width: 43px;
+    }
+    #page-top-menu nav.top-menu ul.desktop-menu{
+        display: none;
+        visibility: hidden;
+    }
+    #one-page-nav{
+        display: none;
+        visibility: hidden;
+    }
+    #skill .skills {
+        height: 322px;
+        padding-top: 0px;
+        /*text-align: center;*/
+    }
+    #testimonial .special-intro .descriptions .description {
+        font-size: 20px;
+    }
+    #testimonial .special-intro div.tab-selectors ul li.tab-selector {
+        float: left;
+        margin-right: 5px;
+    }
+    #testimonial .special-intro div.tab-selectors ul li.tab-selector:last-child {
+        margin-right: 0;
+    }
+    #contact-topbar .wrapper {
+        margin-top: 42px;
+    }
+    #contact-topbar .control-bar a.close-btn {
+        display: block;
+        float: none;
+        height: 28px;
+        margin: 32px auto 0;
+        width: 28px;
+    }
+    #contact-topbar div.contact-form .contact-header{
+        margin-top: 28px;
+    }
+    .contact-topbar .gmap{
+        width: 100%;
+        margin-top: 50px;
+    }
+    #contact-topbar div.contact-form{
+        width: 100%;
+        padding-left: 0px;
+    }
+    #contact-topbar .contact-form .contact-title-container {
+        margin-top: -630px;
+        position: absolute;
+        width: calc(100% - 60px);
+        z-index: -1;
+    }
+}
+
+/*** ! Just Tablet Devices! ***/
+@media (max-width: 800px) and (min-width: 481px) {
+    .percent {
+        font-size: 40px;
+    }
+    .experience {
+        font-size: 26px;
+    }
+    #experience .experience-parts .experience-part .underline-box{
+        display: none;
+        visibility: hidden;
+    }
+    #experience .experience-parts .experience-part .description .icon {
+        margin-left: 16px;
+    }
+    #experience .experience-parts .experience-part .description .text {
+        margin-left: 104px;
+    }
+    #experience .experience-parts .experience-part .title {
+        float: left;
+        width: 30%;
+    }
+    #experience .experience-parts .experience-part .description {
+        float: right;
+        padding-top: 22px;
+        /*width: 70%;*/
+        width: 100%;
+    }
+
+    #education .education-parts .education-part .underline-box{
+        /*display: none;*/
+        /*visibility: hidden;*/
+    }
+    #education .education-parts .education-part .description .icon {
+        margin-left: 16px;
+    }
+    #education .education-parts .education-part .description .text {
+        margin-left: 104px;
+    }
+    #education .education-parts .education-part .title {
+        float: left;
+        width: 30%;
+    }
+    #education .education-parts .education-part .title .years{
+        font-size: 22px;
+        border: none;
+    }
+    #education .education-parts .education-part .title h3{
+        font-size: 16px;
+        padding-left: 15px;
+        margin-top: 5px;
+    }
+
+    #education .education-parts .education-part .description {
+        float: right;
+        padding-top: 22px;
+        /*width: 70%;*/
+        width: 100%;
+    }
+
+    #testimonial .special-intro div.tab-selectors ul {
+        padding: 10px 0 0;
+    }
+    #skill .skills div.underline-box {
+        height: 4px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 25px;
+        width: 25%;
+    }
+    #skill .skills .skill-text {
+        text-align: center;
+    }
+}
+
+/*** ! Just Mobile Devices ! ***/
+@media (max-width: 480px) {
+    #skill .skills .skill-text {
+        text-align: center;
+        font-size: 32px;
+    }
+    #skill .skills div.underline-box {
+        margin-left: auto;
+        margin-right: auto;
+        width: 33%;
+    }
+    #skill .skills .skill-chart-container{
+        width: 100%;
+    }
+    #skill .skills .skill-chart {
+        /*margin: 0;*/
+    }
+    #skill div.skills > div{
+        height: 175px;
+    }
+    #skill .skills .skill-chart {
+        margin: 0;
+    }
+    .chart-text-container {
+        margin-left: 140px;
+        margin-top: -140px;
+    }
+    body.rtl .chart-text-container {
+        margin-left: auto;
+        margin-right: 140px;
+    }
+    .percent{
+        font-size: 46px;
+        text-align: left;
+    }
+    body.rtl .percent{
+        text-align: right;
+    }
+    .experience {
+        font-size: 26px;
+        margin-left: 0;
+        text-align: left;
+        margin-top: -5px;
+    }
+    body.rtl .experience {
+        margin-left: 0;
+        text-align: right;
+    }
+    #experience .experience-header, #education .education-header, #portfolio .portfolio-header, #testimonial .testimonial-header {
+        text-align: center;
+        font-size: 26px;
+    }
+    #experience div.underline-box, #portfolio div.underline-box, #testimonial div.underline-box{
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+        height: 4px;
+    }
+    #experience .experience-header-container,
+    #education .education-header-container{
+        width: 100%;
+        text-align: center;
+    }
+    #experience .print-box-container{
+        width: 100%;
+        display: none;
+        visibility: hidden;
+    }
+    #experience a.print-box {
+        display: block;
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #experience.container .experience-parts .experience-part .title > div:first-child{
+        max-width: 100%;
+        display: inherit;
+    }
+    #education .education-parts .education-part .title > div{
+        display: block;
+    }
+    #education .education-parts .education-part .title h3,
+    #experience .experience-parts .experience-part .years {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 12px;
+        position: inherit;
+        text-align: center;
+        font-size: 16px;
+        border: none !important;
+    }
+    body.rtl #education .education-parts .education-part .title h3{
+        margin-top: -4px;
+    }
+    #education .education-parts .education-part .title h3{
+        padding-left: 0;
+    }
+    #education .education-parts .education-part .title{
+        text-align: center;
+        padding: 0;
+    }
+    #education .education-parts .education-part .title .years,
+    #experience .experience-parts .experience-part h3 {
+        color: #62D703;
+        text-align: center;
+        border: none !important;
+        padding-right: 0;
+        display: block;
+        max-width: 100%;
+    }
+    body.rtl #education .education-parts .education-part .title h3,
+    body.rtl #experience .experience-parts .experience-part .years,
+    body.rtl #education .education-parts .education-part .title .years,
+    body.rtl #experience .experience-parts .experience-part h3{
+        padding-right: 10px !important;
+        padding-left: 10px !important;
+        max-width: 70%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    body.rtl #experience .experience-parts .experience-part h3{
+        max-width: 100%;
+    }
+    #experience .experience-parts .experience-part .underline-box {
+        float: none;
+        margin-top: 30px;
+        width: 50%;
+        display: none;
+    }
+    #education .education-parts .education-part .description .icon,
+    #experience .experience-parts .experience-part .description .icon {
+        display: none;
+        visibility: hidden;
+    }
+    #education .education-parts .education-part .description .text,
+    #experience .experience-parts .experience-part .description .text {
+        /*margin: 20px 0 0;*/
+        margin: 0px;
+        text-align: center;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    #education .education-parts .education-part .underline-box{
+        height: 1px;
+        margin-left: 15px;
+        margin-right: 15px;
+        width: auto;
+        display: block;
+    }
+    #portfolio .portfolio-header-container{
+        width: 100%;
+    }
+    #portfolio .portfolio-filter-container{
+        width: 100%;
+    }
+    #portfolio ul.portfolio-filter {
+        float: none !important;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    #portfolio .portfolio-filter ul.portfolio-filter-items{
+        display: block;
+    }
+    #portfolio.animation article.portfolio-item{
+        opacity: 1;
+    }
+    #portfolio article.portfolio-item .portfolio-image-link div.overly{
+        background-color: transparent;
+        opacity: 0;
+    }
+    #testimonial .special-intro .descriptions .description {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    #testimonial .special-intro div.tab-selectors ul {
+        padding: 122px 0 0;
+    }
+    #page-footer .top-border {
+        margin: auto;
+        position: relative;
+    }
+    #page-footer div.copyright-text{
+        text-align: center;
+    }
+    #contact-topbar div.contact-form{
+        text-align: center;
+    }
+    #contact-topbar div.contact-form .contact-header{
+        font-size: 26px;
+    }
+    #contact-topbar div.contact-form .underline-box{
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        height: 4px;
+    }
+    #contact-topbar div.contact-form .contact-text{
+        margin: 35px auto;
+    }
+    #contact-topbar ul.contact-form li{
+        float: none;
+    }
+    #contact-topbar ul.contact-form li.text-field{
+        float: none;
+        padding-right: 0px;
+    }
+    #contact-topbar ul.contact-form li input{
+        width: 100%;
+    }
+    #contact-topbar.contact-topbar .gmap ul.social-icons, #page-footer ul.social-icons{
+        display: table;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .contact-topbar #contact-map {
+        height: 350px;
+    }
+    #contact-topbar .contact-form .contact-title-container {
+        margin-top: -510px;
+    }
+}

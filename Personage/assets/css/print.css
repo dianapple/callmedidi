@@ -1,0 +1,126 @@
+/**
+ * Example Print Preview site
+ *
+ *	print.css
+ *	author: PixFlow Family
+ */
+
+/* Grid */
+.max-container{
+    width: 100%;
+}
+
+img,
+.flexslider .slides img{
+    display: none ;
+}
+
+
+/* Header */
+#page-top-menu {
+    display: none;
+}
+
+
+body{
+    color: #000000;
+    background: #ffffff;
+}
+
+#page-top-menu + section > div.container,
+#page-top-menu + section > div.skills,
+#page-top-menu + section > div.clearfix{
+    margin-top: 0;
+}
+
+/* intro */
+.video-background,.flexslider{
+    display: none;
+}
+
+#intro .face-photo-container{
+    margin-top: 1cm;
+}
+
+#intro .face-photo-container img{
+    display: block !important;
+}
+
+#intro .about{
+    color: #ff0000;
+}
+
+#intro .about .signature{
+    display: none;
+}
+
+#skill .skills{
+    margin-top: -5cm;
+}
+
+.percent{
+    font-size: 44px;
+}
+
+.print-box-container{
+    display: none;
+}
+
+#contact-topbar{
+    display: none;
+}
+
+.contact-info{
+    display: block;
+}
+
+#experience{
+    margin-top: 7cm;
+}
+
+#education{
+    margin-bottom: 100px;
+}
+
+#experience .experience-header-container,
+#education .education-header-container{
+    margin-bottom: 0px;
+}
+
+#experience .experience-header,
+#education .education-header{
+    padding: 0;
+}
+
+#experience .experience-parts .experience-part{
+    padding: 10px 0;
+}
+
+#experience .experience-parts .experience-part:last-child{
+    border-bottom: 1px solid #000000;
+}
+
+#education .education-parts .education-part .underline-box {
+    margin: 5px 0 30px;
+}
+
+#education .education-parts .education-part .description{
+    padding-top: 15px;
+}
+
+#experience .experience-parts .experience-part .description .icon,
+#education .education-parts .education-part .description .icon{
+    font-size: 31px;
+}
+
+#portfolio{
+   display: none;
+}
+
+#testimonial{
+    display: none;
+}
+
+footer{
+    display: none;
+}

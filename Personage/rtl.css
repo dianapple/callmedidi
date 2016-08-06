@@ -1,0 +1,341 @@
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
+/* CSS Document */
+body{
+    direction:rtl;
+    unicode-bidi:embed;
+}
+body,
+.experience,
+.contact-page .px-form-name input[type="text"],
+.contact-page .px-form-email input[type="email"],
+.contact-page .px-form-message textarea,
+.tooltipster-punk .tooltipster-default .tooltipster-content,
+.page404 .description,
+#intro .about .description,
+#portfolio article.portfolio-item .portfolio-image-link .description .category,
+#testimonial .special-intro .descriptions .description,
+#contact-topbar ul.contact-form,
+.post-info span,
+.comments-list .comment-date,
+.search-item .title a,
+.mfp-wrap .mfp-container .mfp-content .slider-popup .portfolio-description{
+    font-family: 'Droid Arabic Naskh', serif !important;
+}
+blockquote,
+h1, h2, h3, h4, h5, h6,
+#page-top-menu nav ul li.menu-item span,
+#page-top-menu nav ul li.menu-item ul li a,
+.page404 .title,
+.page404 .subtitle,
+#page-footer .widget_px_twitter li span,
+#page-footer .widget_px_twitter .join,
+#intro .about .about-name,
+#skill .skills .skill-text,
+    /*.percent,*/
+#experience .experience-header,
+#education .education-header,
+    /*#experience a.print-box,*/
+#experience .experience-parts .experience-part h3,
+    /*#experience .experience-parts .experience-part .years,*/
+#education .education-parts .education-part .title,
+#portfolio .portfolio-header, #testimonial .testimonial-header,
+#portfolio ul.portfolio-filter li,
+#portfolio ul.portfolio-filter li ul li a,
+#portfolio article.portfolio-item .portfolio-image-link .description .title,
+#contact-topbar div.contact-form .contact-header,
+#contact-topbar div.contact-form .contact-text,
+.page-title,
+.post .timeline-container .date span,
+.post .title a,
+.archive .comments-link,
+.blog .comments-link,
+.single-post .head,
+.post-pagination,
+.post-pagination span,
+.post-pagination a,
+#respond .comment-reply-title,
+#main-content[page-type="search"] p,
+.search-box .search-result,
+.search-item .count{
+    font-family: 'Droid Arabic Kufi', serif !important;
+}
+.single #page-top-menu nav, .blog #page-top-menu nav{
+    margin-bottom: 18px;
+}
+#page-top-menu nav ul li.menu-item{
+    border-right: 1px solid #ffffff;
+    border-left : none;
+    float: right;
+    margin-right: 0px;
+    padding-left: 0px;
+    /*margin-left: 60px;*/
+    margin-left: 30px;
+    padding-right: 20px;
+}
+.sf-menu ul{
+    left:auto;
+    right:0;
+}
+.sf-menu ul ul{
+    left:auto;
+    right:100%;
+}
+#page-top-menu nav.top-menu ul li.menu-item ul.sub-menu li.menu-item{
+    border-right: none;
+    padding-right: 0px;
+}
+#page-top-menu nav.top-menu ul li.menu-item ul.sub-menu li.menu-item ul{
+    margin-left:auto;
+    margin-right:3px;
+}
+#page-top-menu .background--light ul li.menu-item{
+    border-left: none;
+    border-right: 1px solid #000000;
+}
+
+#page-top-menu .background--dark ul li.menu-item{
+    border-left: none;
+    border-right: 1px solid #FAF6F5;
+}
+#page-top-menu nav ul li.menu-item:first-child{
+    border-right: none !important;
+}
+#skill div.skills > div{
+    float: right;
+    direction: rtl;
+}
+#page-top-menu nav ul li.menu-item div.icon{
+    margin-top: 0;
+    /*margin-right: 50px;*/
+    display: inline-block;
+}
+.logo .name{
+    font-family: "droid arabic kufi";
+    font-size: 16px;
+    font-weight: bold;
+}
+#page-top-menu nav ul li.menu-item.menu-item-object-contact span.menu-item-title{
+    margin-right: 40px;
+    display: inline-block;
+    float: left;
+}
+/*** Intro Section ***/
+#intro div.face-photo{
+    margin-left: auto;
+    margin-right: 6px;
+}
+#intro .about .description-container{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+/*** Skills Section **/
+#skill .skills .skill-text{
+    font-size: 44px;
+    letter-spacing: -2px;
+    line-height: 1.02;
+    margin-top: 43px;
+    font-weight: bold;
+}
+.percent{
+    font-family: "Open Sans";
+    text-align: center;
+}
+.percent:after {
+    margin-left: 0;
+}
+.experience{
+    margin-right: -4px;
+    text-align: center;
+    font-size: 24px;
+    line-height: 1.3;
+}
+#skill div.skills > div:first-child {
+    margin-top: 15px;
+}
+
+/*** Experience Section ***/
+#experience .experience-header-container, #education .education-header-container{
+    float: right;
+    direction: rtl;
+}
+#experience a.print-box{
+    float: left;
+}
+#experience .experience-parts .experience-part{
+    direction: rtl;
+}
+#experience .experience-parts .experience-part .title > div:last-child{
+    right: auto;
+    left: 0;
+}
+#experience .experience-parts .experience-part h3{
+    font-weight: bold;
+    padding-right: 0;
+    padding-left: 19px;
+}
+#experience .experience-parts .experience-part .years{
+    font-family: "droid arabic naskh","Open Sans";
+}
+#experience .experience-parts .experience-part .underline-box{
+    float: left;
+}
+#experience .experience-parts .experience-part .description .icon{
+    padding-right: 41px;
+    padding-left: 0;
+}
+#experience .experience-parts .experience-part .description .text{
+    padding-right: 10%;
+    padding-left: 0;
+}
+
+/*** Education Section ***/
+#education .education-parts .education-part .content{
+    direction: rtl;
+}
+#education .education-parts .education-part .title h3{
+    border-left: none;
+    border-right: 2px solid black;
+    margin-left: auto;
+    margin-right: -2px;
+    padding-left: 0;
+    padding-right: 10px;
+}
+#education .education-parts .education-part .title .years{
+    font-family: "droid arabic naskh","Oswald";
+    padding-left: 10px;
+    padding-right: 15px;
+    border-left: 2px solid #000000;
+    border-right: none;
+}
+#education .education-parts .education-part .description .icon{
+    padding-right: 41px;
+    padding-left: 0;
+}
+#education .education-parts .education-part .description .text{
+    padding-right: 10%;
+    padding-left: 0;
+}
+#education .education-parts .education-part .underline-box{
+    float: right;
+    margin: 42px 15px 37px 0px;
+}
+
+/*** Portfolio Section ***/
+#portfolio{
+    direction: rtl;
+}
+#portfolio.container-fluid div.container div.row > div{
+    float: right;
+}
+#portfolio ul.portfolio-filter li ul{
+    /*direction: rtl;*/
+    margin-right: -1px;
+    margin-left: 0;
+}
+#portfolio ul.portfolio-filter li ul li a{
+    /*direction: rtl;*/
+}
+#portfolio ul.portfolio-filter li .text{
+    letter-spacing: normal;
+}
+#portfolio ul.portfolio-filter li .icon{
+    margin-left: 5px;
+    margin-right: 0;
+    float: left !important;
+}
+.loadmore .loadmore-text{
+    margin-right: 21px;
+    padding-top: 6px;
+}
+
+/*** Testimonials Section ***/
+#testimonial{
+    direction: rtl;
+}
+#testimonial .special-intro > div{
+    float: right;
+}
+#testimonial .special-intro div.tab-selectors ul li.tab-selector a{
+    float: left;
+}
+
+/*** Page Footer ***/
+#page-footer .copyright-text{
+    font-family: "Droid Arabic Naskh","Open Sans";
+}
+#page-footer ul li.social-icon{
+    float: right;
+}
+#page-footer ul li.social-icon a{
+    margin-right: 0;
+    margin-left: 13px;
+}
+/*** Blog & Blog Details ***/
+.post-content p{
+    font-size: 16px;
+}
+.post .post-container{
+    padding-left: 0;
+    padding-right: 105px;
+}
+.archive .post-meta, .blog .post-meta{
+    padding-left: 3%;
+    padding-right: 0;
+}
+.archive .text-comment p, .blog .text-comment p{
+    float: right;
+}
+.archive .post-comments, .blog .post-comments{
+    float: left;
+    margin-right: 2%;
+    margin-left: 0;
+}
+.archive .text-comment .more-link, .blog .text-comment .more-link {
+    left: auto;
+    right: 106px;
+}
+#main-content.single-post div.row div.comments div.container.container-vspace div.row div.col-md-8{
+    float: right;
+}
+#commentform .input-text{
+    float: right;
+}
+#commentform .input-text input[name="email"],
+#commentform .input-text input[name="url"]{
+    direction: ltr;
+    text-align: right;
+}
+
+/*** Footer Widgets ***/
+.widget_px_recent_posts .item-image,
+.widget_px_recent_portfolio .item-image{
+    float: right;
+    margin-left: 10px;
+    margin-right:auto;
+}
+.widget_px_recent_posts .item-info,
+.widget_px_recent_portfolio .item-info{
+    float: right;
+}
+.widget_px_recent_posts .item-date,
+.widget_px_recent_portfolio .item-date{
+    float: right;
+    margin-left:0;
+    margin-right: 5px;
+}
+.widget_px_recent_posts .item-title,
+.widget_px_recent_portfolio .item-title{
+    float: right;
+}
+
+/*** Contact Form ***/
+#contact-topbar ul.contact-form li.text-field{
+    padding: 8px 0 0 8px;
+    float: right;
+}
+#contact-topbar ul.contact-form li{
+    float: right;
+}
